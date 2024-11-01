@@ -1,0 +1,46 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Price From in Variable Products\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-21 06:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: woocommerce-price-from-in-variable-products.php:24
+#: woocommerce-price-from-in-variable-products.php:28
+#, php-format
+msgid "<span class=\"pricefrom\">From </span>%1$s"
+msgstr ""
+
+#: woocommerce-price-from-in-variable-products.php:59
+#, php-format
+msgid "From %1$s"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://webdig.pt"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Show only the lowest prices in WooCommerce variable products and lowest sale "
+"price"
+msgstr ""
+
+#. Author of the plugin
+msgid "WebDig"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Price From in Variable Products"
+msgstr ""
